@@ -1,0 +1,63 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: hsl(220, 15%, 55%);
+    font-family: 'Secular One', sans-serif;
+}
+.card{
+    width: 18em;
+    height: 28em;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 8em;
+    border-radius: 1.2em;
+    text-align: center;
+    box-shadow: 5px 10px 16px 3px rgb(44, 60, 76);
+}
+
+img{
+    width: 15em;
+    margin-top: 0.9em;
+    border-radius: 1.2em;
+}
+
+h1{
+    font-size: 1.3em;
+    margin-left: 13px;
+    margin-right: 13px;
+    padding-top: 13px;
+}
+
+p{
+    font-size: 1em;
+    padding-top: 15px;
+    padding-left: 13px;
+    padding-right: 13px;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.attribution{
+    padding: 2em;
+    text-align: center;
+}
+
+.challange{
+    font-size: 18px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.challange2{
+    font-size: 16px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: blue;
+}
